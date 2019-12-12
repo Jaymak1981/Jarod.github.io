@@ -1,0 +1,67 @@
+body {
+    background: black;
+    border: 2px solid green;
+    padding: 30px;
+    margin: 40px;
+}
+
+header {
+    text-align: center;
+    border-bottom: 2px solid green;
+    padding-bottom: 50px;
+
+}
+
+img {
+    float: right;
+    border: 2px solid green;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+}
+
+a {
+    color: white;
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 100px;
+    color: white;
+    text-shadow: 3px 3px green;
+    padding-top: 20px;
+    
+}
+
+h2 {
+    color: white;
+    font-size: 40px;
+    text-shadow: 3px 3px green;
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-shadow: 2px 2px green;
+}
+
+span.a {
+    display: inline;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid green;
+    background-color: green;
+}
+
+footer {
+    border-top: 2px solid green;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+ul {
+    color: white;
+}
